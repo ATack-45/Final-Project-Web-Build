@@ -1,0 +1,1 @@
+This is my final project for my junior year in high school at the Careerline Tech Center. It utilises the Unity game engine as well as various other technologies to create a enjoyable playing experience.
